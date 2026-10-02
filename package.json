@@ -2,7 +2,7 @@
   "name": "tree-sitter-flow",
   "version": "0.1.0",
   "description": "Tree-sitter grammar for the Flow programming language",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "main": "bindings/node",
   "keywords": ["tree-sitter", "flow", "parser"],
   "devDependencies": {
